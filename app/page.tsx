@@ -1,4 +1,4 @@
-const broken =
+
 export const metadata = {
   title: "App Router",
 };
@@ -6,4 +6,4 @@ export const metadata = {
 export default function Page() {
   return <h1>App Router</h1>;
 }
-const unusedVariable = "test";
+
